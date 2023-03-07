@@ -15,4 +15,4 @@ Our final presentation can be found [here](../presentation.pdf).
 
 UPDATE: We won!
 
-![](../team.jpg)
+![the team](../team.jpg)
