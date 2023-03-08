@@ -9,10 +9,10 @@ The project involves four parts:
 - [MLE](https://github.com/skedulr/ml-engine): The ML engine for extraction of events from conversational queries by users. Parses a natural language and returns a parsed query.
 - [Molu](https://github.com/skedulr/molu): The mailing system in Skedulr. Receives information from Galactus, creates an ics file and mails it to the relevant party using the Gmail API.
 
-Our final presentation can be found [here](../presentation.pdf).
+Our final presentation can be found [here](https://github.com/skedulr/.github/blob/main/presentation.pdf).
 
 ---
 
 UPDATE: We won!
-
-![the team](../team.jpg)
+  
+![the team](https://github.com/skedulr/.github/blob/main/team.jpg?raw=true)
